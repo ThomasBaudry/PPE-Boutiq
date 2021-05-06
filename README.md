@@ -1,2 +1,2 @@
-# PPE-Boutiq
-Projet Personnel Encadré
+# PPE-Boutique
+Projet Personnel Encadré - Boutique
